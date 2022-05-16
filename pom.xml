@@ -11,12 +11,12 @@
 	<description>Simple Java Web Application</description>
 
 	<organization>
-		<name>7 Hills Academy</name>
+		<name>7 Hills Academy for devops</name>
 		<url>http://seven-hills.com/</url>
 	</organization>
 
 	<properties>
-		<jdk.version>1.8</jdk.version>
+		<jdk.version>1.8.1</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
